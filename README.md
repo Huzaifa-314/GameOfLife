@@ -38,17 +38,19 @@ Follow these steps to set up and run the project on your local machine:
 ### Installation  
 
 1. **Clone the Repository**:  
-   ```bash
+   ```
+   bash
    git clone https://github.com/yourusername/conways-game-of-life.git
    cd conways-game-of-life
-  ```
+   ```
 2. **Set Up JavaFX**:
   Download the JavaFX SDK from openjfx.io.
 
 3. **Run the Application**:
-   ```javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls -d bin src/gameoflife/*.java
-java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls -cp bin gameoflife.GameOfLife
-  ```
+   ```
+   javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls -d bin src/gameoflife/*.java
+   java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls -cp bin gameoflife.GameOfLife
+   ```
 
 
 ## 🔍 How to Use  
@@ -70,11 +72,13 @@ java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls -cp bin
 Contributions are welcome! To contribute:  
 1. Fork the repository.  
 2. Create a new branch for your feature:  
-   ```bash
+   ```
+   bash
    git checkout -b feature-name
    ```
 3. Commit your changes:
-   ```git commit -m "Add new feature"
+   ```
+   git commit -m "Add new feature"
    ```
 
 
