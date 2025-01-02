@@ -17,6 +17,11 @@ For more details and patterns, visit the [Life Lexicon](https://conwaylife.com/r
 
 ---
 
+## Snapshot
+![image](https://github.com/user-attachments/assets/cbfcfbbf-2a9b-4a48-ad25-38a088826b53) ![image](https://github.com/user-attachments/assets/df329d64-dd99-4ead-b36c-5b7da004abf5)
+
+
+
 ## 🎮 Features  
 
 - **Interactive Grid Drawing**: Click and drag to toggle cells between alive and dead states.  
